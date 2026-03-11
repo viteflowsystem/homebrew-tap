@@ -1,6 +1,6 @@
 cask "timedog" do
   version "1.3.0"
-  sha256 :no_check
+  sha256 "05c887f29912121cec2e2a142cac93d752c3d5579ca73ea29e172bfaa84843c0"
 
   url "https://github.com/viteflowsystem/timedog/releases/download/v#{version}/Timedog-#{version}-universal.dmg"
   name "Timedog"
