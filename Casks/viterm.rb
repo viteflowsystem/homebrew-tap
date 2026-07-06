@@ -7,7 +7,7 @@ cask "viterm" do
   desc "Native macOS terminal for running AI coding agents in parallel"
   homepage "https://github.com/viteflowsystem/viterm"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "viterm.app"
 
