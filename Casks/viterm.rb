@@ -1,6 +1,6 @@
 cask "viterm" do
-  version "0.5.0"
-  sha256 "58546a061696b87ca6acb984c7a394cfce9d0cbf300494bd89f831348e59035e"
+  version "0.6.0"
+  sha256 "c6f7c8a7e627b55ffadbd8593f7ecf8ebc59a7a41286a7e09d293fdffdf5927e"
 
   url "https://github.com/viteflowsystem/homebrew-tap/releases/download/viterm_v#{version}/viterm-#{version}.dmg"
   name "viterm"
