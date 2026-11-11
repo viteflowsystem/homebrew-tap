@@ -10,7 +10,7 @@ cask "timedog" do
   app "Timedog.app"
 
   zap trash: [
-    "~/Library/Application Support/timedog",
-    "~/Library/Preferences/com.timedog.app.plist"
+    "~/Library/Application Support/Timedog",
+    "~/Library/Preferences/com.viteflowsystem.timedog.plist"
   ]
 end
