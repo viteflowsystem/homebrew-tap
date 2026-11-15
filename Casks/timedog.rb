@@ -1,6 +1,6 @@
 cask "timedog" do
-  version "1.6.0"
-  sha256 "c5bab9e0179cd8b961f9863873e11b55f82d0bb2a3553c3f50ffd41ce738bf42"
+  version "1.6.1"
+  sha256 "03a3e90a32569a416157caf542b8ccf5cf80dcd392af0af0c4515f7b2f746bc6"
 
   url "https://github.com/viteflowsystem/homebrew-tap/releases/download/timedog_v#{version}/Timedog-#{version}-universal.dmg"
   name "Timedog"
